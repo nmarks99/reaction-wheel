@@ -1,0 +1,3 @@
+# Main program to control the reaction wheel
+Although this code functions as desired, it was written at a time when I was very unexperienced in Ardiuno and C/C++ in general.
+Therefore, there is much to be done to make the code more readable, organized, and efficient. Restructuring into multiple files and header files would make it much more organized. I would also like to get rid of a lot of the uneccesary global variables I used and other general things that are *bad practice*.
